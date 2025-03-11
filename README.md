@@ -1,10 +1,10 @@
 # Global-weather-analysis
 
-Overview
+#Overview
 
 This project analyzes global weather patterns using Power BI. It visualizes and interprets key weather metrics such as temperature, humidity, precipitation, and wind speed across various locations worldwide. The analysis helps in understanding climate trends, seasonal variations, and potential impacts of weather changes.
 
-Features
+#Features
 
 Interactive Dashboards: Dynamic visualizations for temperature, precipitation, and other weather attributes.
 Comparative Analysis: Compares weather trends across different regions.
